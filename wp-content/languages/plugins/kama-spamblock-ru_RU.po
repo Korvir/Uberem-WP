@@ -1,0 +1,60 @@
+# Translation of Plugins - Kama SpamBlock - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Kama SpamBlock - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-17 12:27:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Kama SpamBlock - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://wp-kama.ru"
+msgstr "http://wp-kama.ru"
+
+#: kama-spamblock.php:113
+msgid "Antispam block your comment!"
+msgstr "Антиспам заблокировал комментарий!"
+
+#: kama-spamblock.php:119
+msgid "Copy %1$s to the field %2$s and press button"
+msgstr "Скопируйте %1$s в поле %2$s и нажмите кнопку"
+
+#: kama-spamblock.php:126
+msgid "Send comment again"
+msgstr "Отправить комментарий еще раз"
+
+#: kama-spamblock.php:153
+msgid "Settings"
+msgstr "Настройки"
+
+#: kama-spamblock.php:160
+msgid "Kama Spamblock settings"
+msgstr "Настройки Kama Spamblock"
+
+#: kama-spamblock.php:182
+msgid "ID attribute of comment form submit button. Default: <code>submit</code>"
+msgstr "атрибут ID кнопки у формы комментирования. По умолчанию: <code>submit</code>"
+
+#: kama-spamblock.php:186
+msgid "Any unique code. Change it if  you receave spam comment..."
+msgstr "Любой уникальный код. Измените его если вы получаете спам..."
+
+#. Author of the plugin/theme
+msgid "Kama"
+msgstr "Kama"
+
+#. Description of the plugin/theme
+msgid "Block auto-spam when comment is posted not by human. Check pings and trackbacks for real backlink. For disable the plugin define the constant: <code>define('KS_FORCE_DISABLE', 1);</code> in theme functions.php file."
+msgstr "Блокирует спам, когда комментарий оставляется роботом. Проверяет пинги и трэкбэки на наличие обратной ссылки. Чтобы отключить плагин определите константу <code>define('KS_FORCE_DISABLE', 1);</code>."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wp-kama.ru/?p=95"
+msgstr "http://wp-kama.ru/?p=95"
+
+#. Plugin Name of the plugin/theme
+msgid "Kama SpamBlock"
+msgstr "Kama SpamBlock"

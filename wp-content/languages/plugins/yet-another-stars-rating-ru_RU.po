@@ -1,0 +1,853 @@
+# Translation of Plugins - Yasr &#8211; Yet Another Stars Rating - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Yasr &#8211; Yet Another Stars Rating - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-24 19:06:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Yasr &#8211; Yet Another Stars Rating - Stable (latest release)\n"
+
+#: yet-another-stars-rating.php:171
+msgid "Thank you for using Yasr Pro"
+msgstr "Спасибо за использование Yasr Pro"
+
+#: admin/settings/yasr-settings-functions-misc.php:105
+msgid " 20 + ready to use themes"
+msgstr "20 + готовых тем"
+
+#: admin/settings/yasr-settings-functions-misc.php:92
+msgid "Upgrade to YASR Pro"
+msgstr "Обновить YASR до Pro"
+
+#: admin/settings/yasr-settings-functions-misc.php:111
+msgid " Dedicate support"
+msgstr "Расширенная поддержка"
+
+#: admin/settings/yasr-settings-functions-misc.php:108
+msgid " Upload your own theme"
+msgstr "Загрузите собственную тему"
+
+#: admin/settings/yasr-settings-functions-misc.php:102
+msgid " Custom Rankings"
+msgstr "Пользовательские рейтинги"
+
+#: admin/settings/yasr-settings-functions-misc.php:99
+msgid " User Reviews"
+msgstr "Отзывы пользователей"
+
+#: admin/settings/classes/YasrSettings.php:206
+#: admin/settings/yasr-settings-functions.php:166
+msgid "Do you want to save ip address?"
+msgstr "Вы хотите сохранить IP-адрес?"
+
+#: admin/yasr-admin-actions.php:170
+msgid "Upgrade to %s"
+msgstr "Обновление до %s"
+
+#: yet-another-stars-rating.php:166
+msgid "Buy Yasr Pro"
+msgstr "Купить Yasr Pro"
+
+#: admin/settings/yasr-stats-page.php:69
+#: admin/settings/yasr-stats-functions.php:47
+msgid "Upgrade"
+msgstr "Обновить"
+
+#: admin/class-wp-list-table.php:1086
+msgid "Select All"
+msgstr "Выделить всё"
+
+#: admin/class-wp-list-table.php:864
+msgid "Last page"
+msgstr "Последняя страница"
+
+#: admin/class-wp-list-table.php:853
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: admin/class-wp-list-table.php:518 admin/class-wp-list-table.php:1337
+msgid "Show more details"
+msgstr "Показать больше деталей"
+
+#: admin/class-wp-list-table.php:466
+msgid "Apply"
+msgstr "Применять"
+
+#: admin/class-wp-list-table.php:456
+msgid "Bulk Actions"
+msgstr "Массовые действия"
+
+#: admin/class-wp-list-table.php:454
+msgid "Select bulk action"
+msgstr "Выберите массовое действие"
+
+#: admin/class-wp-list-table.php:325
+msgid "No items found."
+msgstr "Ничего не найдено."
+
+#: admin/class-wp-list-table.php:161
+msgid "Excerpt View"
+msgstr "Просмотр выдержки"
+
+#: admin/class-wp-list-table.php:160
+msgid "List View"
+msgstr "Посмотреть список"
+
+#: admin/class-wp-list-table.php:845
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s из %2$s"
+
+#: admin/class-wp-list-table.php:835 admin/class-wp-list-table.php:839
+msgid "Current Page"
+msgstr "Текущая страница"
+
+#: admin/class-wp-list-table.php:828
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: admin/class-wp-list-table.php:817
+msgid "First page"
+msgstr "Первая страница"
+
+#: admin/class-wp-list-table.php:780 admin/class-wp-list-table.php:1361
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s пункт"
+msgstr[1] "%s пунктов"
+msgstr[2] "%s пунктов"
+
+#: admin/class-wp-list-table.php:704
+msgid "No pending comments"
+msgstr "Нет ожидающих комментариев"
+
+#: admin/class-wp-list-table.php:682
+msgid "No approved comments"
+msgstr "Нет утвержденных комментариев"
+
+#: admin/class-wp-list-table.php:661 admin/class-wp-list-table.php:682
+#: admin/class-wp-list-table.php:704
+msgid "No comments"
+msgstr "Нет комментариев"
+
+#: admin/class-wp-list-table.php:655
+msgid "%s pending comment"
+msgid_plural "%s pending comments"
+msgstr[0] "%s ожидающий комментарий"
+msgstr[1] "%s ожидающие комментарии"
+msgstr[2] "%s ожидающие комментарии"
+
+#: admin/class-wp-list-table.php:654
+msgid "%s approved comment"
+msgid_plural "%s approved comments"
+msgstr[0] "%s утверждённый комментарий"
+msgstr[1] "%s утверждённые комментарии"
+msgstr[2] "%s утверждённые комментарии"
+
+#: admin/class-wp-list-table.php:653
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s комментарий"
+msgstr[1] "%s комментария"
+msgstr[2] "%s комментариев"
+
+#. translators: 1: month name, 2: 4-digit year
+#: admin/class-wp-list-table.php:602
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: admin/class-wp-list-table.php:587
+msgid "All dates"
+msgstr "Все даты"
+
+#: admin/class-wp-list-table.php:585
+msgid "Filter by date"
+msgstr "Фильтровать по дате"
+
+#: includes/shortcodes/yasr-shortcode-ajax.php:408
+msgid "out of 5 stars"
+msgstr "из 5 звезд"
+
+#: includes/yasr-widgets.php:474
+msgid "Recent Ratings"
+msgstr "Недавние рейтинги"
+
+#: includes/yasr-widgets.php:424
+msgid "Vote %s from %s on"
+msgstr "Голосовать %s из %s на"
+
+#: includes/yasr-widgets.php:370
+msgid "Show the 5 most recent rated posts"
+msgstr "Показать 5 самых популярных сообщений"
+
+#: includes/yasr-widgets.php:368
+msgid "Yasr Recent Ratings"
+msgstr "Yasr Недавние рейтинги"
+
+#: includes/yasr-widgets.php:253
+msgid "Rate This:"
+msgstr "Оцените это:"
+
+#: includes/yasr-widgets.php:193
+msgid "Show Yasr Visitor Votes"
+msgstr "Показать Голоса Yasr Посетителя"
+
+#: includes/yasr-widgets.php:191
+msgid "Yasr Visitor Votes"
+msgstr "Yasr Голоса посетителей"
+
+#: includes/yasr-widgets.php:118 includes/yasr-widgets.php:287
+msgid "Size:"
+msgstr "Размер:"
+
+#: includes/yasr-widgets.php:112 includes/yasr-widgets.php:273
+#: includes/yasr-widgets.php:480
+msgid "Title:"
+msgstr "Название:"
+
+#: includes/yasr-widgets.php:100
+msgid "Our Rating:"
+msgstr "Наш рейтинг:"
+
+#: includes/yasr-widgets.php:46
+msgid "Display Overall Rating"
+msgstr "Показать общий рейтинг"
+
+#: includes/yasr-widgets.php:44
+msgid "Yasr Overall Rating"
+msgstr "Yasr Общий рейтинг"
+
+#: admin/yasr-admin-actions.php:187
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: admin/editor/yasr-metabox-top-right.php:80
+#: admin/js/src/yasr-guten-panel.js:6 admin/js/src/guten/yasr-guten-panel.js:12
+#: admin/js/yasr-guten-panel.js:1
+msgid "Disable auto insert for this post or page?"
+msgstr "Отключить автоматическую вставку для этой записи или страницы?"
+
+#: admin/yasr-admin-actions.php:168
+msgid "Looking for more?"
+msgstr "Ищете больше?"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:49
+msgid "Show average?"
+msgstr "Показать среднее?"
+
+#: admin/settings/classes/YasrSettings.php:732
+#: admin/settings/yasr-settings-functions.php:756
+msgid "Publisher name (e.g. Google)"
+msgstr "Имя издателя (например, Google)"
+
+#: admin/editor/yasr-editor-functions.php:300
+#: admin/editor/yasr-editor-functions.php:330
+msgid "Hide Average?"
+msgstr "Скрыть Среднее?"
+
+#: admin/yasr-admin-actions.php:99
+msgid "Choose Stars Set"
+msgstr "Выберите набор звезд"
+
+#: admin/settings/yasr-settings-functions-misc.php:42
+msgid "Aspect & Styles"
+msgstr "Вид & Стили"
+
+#: admin/editor/yasr-metabox-top-right.php:45
+#: admin/js/src/yasr-guten-blocks.js:185 admin/js/src/yasr-guten-panel.js:24
+#: admin/js/src/guten/yasr-guten-blocks.js:183
+#: admin/js/src/guten/yasr-guten-panel.js:30 admin/js/yasr-guten-blocks.js:205
+#: admin/js/yasr-guten-panel.js:1
+msgid "Rate this article / item"
+msgstr "Оценить эту статью / пункт"
+
+#: admin/editor/yasr-metabox-multiple-rating.php:46
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:172
+msgid "Select"
+msgstr "Выберите"
+
+#: admin/settings/yasr-settings-page.php:32
+msgid "Settings"
+msgstr "Параметры"
+
+#: admin/settings/yasr-settings-functions-misc.php:18
+msgid "General Settings"
+msgstr "Общие параметры"
+
+#: admin/editor/yasr-metabox-below-editor.php:36
+#: admin/settings/yasr-settings-functions-misc.php:30
+msgid "Multi Sets"
+msgstr "Множественные выборы"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset-page.php:59
+msgid "Manage Multi Set"
+msgstr "Управление множественным выбором"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset-page.php:63
+msgid "What is a Multi Set?"
+msgstr "Что такое множественный выбор?"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset-page.php:93
+msgid "Close this message"
+msgstr "Закройте это сообщение"
+
+#: includes/shortcodes/classes/YasrVisitorVotes.php:205
+#: includes/shortcodes/classes/YasrVisitorVotes.php:217
+msgid "You've already voted this article with"
+msgstr "Вы уже проголосовали за эту статью"
+
+#: includes/shortcodes/yasr-shortcode-ajax.php:150
+#: includes/shortcodes/classes/YasrVisitorVotes.php:330
+msgid "Total:"
+msgstr "Всего:"
+
+#: includes/shortcodes/classes/YasrMultiSet.php:126
+msgid "Average"
+msgstr "В среднем"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:162
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:193
+msgid "Manage Multiple Set"
+msgstr "Управление множественным выбором"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:164
+msgid "Wich set do you want to edit or remove?"
+msgstr "Вы хотите изменить или удалить набор?"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:203
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:316
+msgid "Field name"
+msgstr "Имя поля"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:207
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:320
+msgid "Remove"
+msgstr "Удалить"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:245
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:355
+msgid "Remove whole set?"
+msgstr "Удалить весь набор?"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:258
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:368
+msgid "If you remove something you will remove all the votes for that set or field. This operation CAN'T BE undone."
+msgstr "Если вы удалите что-то будут удалены все голоса для этого поля или набора. Эта операция не может быть отменена."
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:266
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:376
+msgid "You can use up to 9 elements"
+msgstr "Можно использовать до 9 элементов"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:269
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:379
+msgid "Add element"
+msgstr "Добавить элемент"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:271
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:381
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:280
+msgid "No Multiple Set were found"
+msgstr "Множественные выборы не были найдены"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:522
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:765
+msgid "Settings Saved"
+msgstr "Параметры сохранены"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:525
+msgid "Something goes wrong trying insert set field name. Please report it"
+msgstr "Что-то пошло не так, при попытке вставить задать имя поля. Пожалуйста сообщите об этом"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:531
+msgid "Something goes wrong trying insert Multi Set name. Please report it"
+msgstr "Что-то пошло не так, при попытке вставить имя множественного выбора. Пожалуйста сообщите об этом"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:604
+msgid "Something goes wrong trying to delete a Multi Set . Please report it"
+msgstr "Что-то пошло не так, при попытке удалить множественный выбор. Пожалуйста сообщите об этом"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:636
+msgid "Something goes wrong trying to delete a Multi Set's element. Please report it"
+msgstr "Что-то пошло не так, при попытке удалить элемент множественного выбора. Пожалуйста сообщите об этом"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:695
+msgid "Something goes wrong trying to update a Multi Set's element. Please report it"
+msgstr "Что-то пошло не так, при попытке обновить элемент множественного выбора. Пожалуйста сообщите об этом"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:753
+msgid "Something goes wrong trying to insert set field name in edit form. Please report it"
+msgstr "Что-то пошло не так, при попытке вставить поле имя в форме редактирования. Пожалуйста сообщите об этом"
+
+#: admin/settings/aspect_style/yasr-settings-functions-style.php:48
+msgid "Style Options"
+msgstr "Параметры стиля"
+
+#: admin/settings/aspect_style/yasr-settings-functions-style.php:66
+msgid "Custom CSS Styles"
+msgstr "Пользовательские CSS стили"
+
+#: admin/settings/aspect_style/yasr-settings-functions-style.php:121
+msgid "Please use text area below to write your own CSS styles to override the default ones."
+msgstr "Пожалуйста, используйте текстовое поле ниже чтобы написать свои собственные CSS стили для переопределения по умолчанию."
+
+#: admin/settings/multiset/yasr-settings-functions-multiset-page.php:118
+msgid "Save"
+msgstr "Сохранить"
+
+#. Author of the plugin
+msgid "Dario Curvino"
+msgstr "Dario Curvino"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/yet-another-stars-rating/"
+msgstr "http://wordpress.org/plugins/yet-another-stars-rating/"
+
+#. Plugin Name of the plugin
+#: admin/yasr-admin-functions.php:124
+#: admin/editor/yasr-editor-functions.php:143
+msgid "Yet Another Stars Rating"
+msgstr "Еще один рейтинг звезд"
+
+#: includes/shortcodes/classes/YasrVisitorMultiSet.php:64
+#: includes/shortcodes/classes/YasrVisitorMultiSet.php:72
+msgid "Submit!"
+msgstr "Отправить!"
+
+#: includes/shortcodes/classes/YasrNoStarsRankings.php:137
+msgid "Problem while retrieving the top 10 active users chart. Are you sure you have votes to show?"
+msgstr "Проблема при получении списка 10 активных пользователей. Вы уверены, что у вас есть голоса, чтобы показать?"
+
+#: includes/shortcodes/classes/YasrNoStarsRankings.php:81
+msgid "Problem while retrieving the top 5 most active reviewers. Did you publish any review?"
+msgstr "Проблема при поиске 5 самых активных рецензентов. Вы опубликовали какой-нибудь отзыв?"
+
+#: admin/settings/yasr-settings-functions-misc.php:222
+msgid " It will require just 1 min but it's a HUGE help for me. Thank you."
+msgstr "Это займет всего 1 минуту, но это ОГРОМНАЯ помощь для меня. Спасибо."
+
+#: admin/classes/YasrOnInstall.php:156
+#: admin/settings/classes/YasrSettings.php:87
+#: admin/settings/yasr-settings-functions.php:64
+#: includes/shortcodes/classes/YasrVisitorMultiSet.php:170
+#: includes/shortcodes/classes/YasrVisitorVotes.php:229
+msgid "You must sign in to vote"
+msgstr "Вы должны войти в систему, чтобы голосовать"
+
+#: admin/settings/aspect_style/yasr-settings-functions-style.php:124
+msgid "Leave it blank if you don't know what you're doing."
+msgstr "Оставьте это поле пустым, если вы не знаете, что вы делаете."
+
+#: admin/yasr-admin-functions.php:163 admin/yasr-admin-functions.php:171
+#: admin/editor/yasr-editor-functions.php:424 admin/yasr-stats-page.php:26
+#: admin/classes/YasrOnInstall.php:25 admin/settings/yasr-settings-page.php:26
+#: admin/settings/yasr-stats-page.php:26
+#: admin/settings/migrations/yasr-settings-migration-functions.php:40
+#: admin/settings/migrations/yasr-settings-migration-functions.php:113
+#: admin/settings/migrations/yasr-settings-migration-functions.php:176
+#: admin/settings/migrations/yasr-settings-migration-functions.php:231
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Вы не имеете достаточных разрешений для доступа к этой странице."
+
+#: admin/settings/classes/YasrSettings.php:118
+#: admin/settings/yasr-settings-functions.php:96
+msgid "General settings"
+msgstr "Общие параметры"
+
+#: admin/settings/classes/YasrSettings.php:170
+#: admin/settings/yasr-settings-functions.php:148
+msgid "Show \"Overall Rating\" in Archive Page?"
+msgstr "Показать «Общий рейтинг» на странице архивов?"
+
+#: admin/settings/classes/YasrSettings.php:179
+#: admin/settings/yasr-settings-functions.php:157
+msgid "Show \"Visitor Votes\" in Archive Page?"
+msgstr "Показать «Голоса посетителей» на странице архивов?"
+
+#: admin/settings/classes/YasrSettings.php:143
+#: admin/settings/yasr-settings-functions.php:121
+msgid "Insert custom text to show before / after stars"
+msgstr "Вставка пользовательского текста, чтобы показать до и после звёзд"
+
+#: admin/settings/classes/YasrSettings.php:152
+#: admin/settings/yasr-settings-functions.php:130
+msgid "Do you want show stats for visitors votes?"
+msgstr "Вы хотите показать статистику голосов для посетителей?"
+
+#: admin/settings/classes/YasrSettings.php:161
+#: admin/settings/yasr-settings-functions.php:139
+msgid "Allow only logged in user to vote?"
+msgstr "Разрешить голосовать только вошедшим в систему пользователям?"
+
+#: admin/settings/classes/YasrSettings.php:228
+#: admin/settings/yasr-settings-functions.php:199
+msgid "Use Auto Insert?"
+msgstr "Используйте автоматическую вставку?"
+
+#: admin/settings/classes/YasrSettings.php:311
+#: admin/settings/classes/YasrSettings.php:333
+#: admin/settings/classes/YasrSettings.php:414
+#: admin/settings/yasr-settings-functions.php:282
+#: admin/settings/yasr-settings-functions.php:304
+#: admin/settings/yasr-settings-functions.php:380
+msgid "Yes"
+msgstr "Да"
+
+#: admin/settings/classes/YasrSettings.php:312
+#: admin/settings/classes/YasrSettings.php:334
+#: admin/settings/classes/YasrSettings.php:415
+#: admin/settings/yasr-settings-functions.php:283
+#: admin/settings/yasr-settings-functions.php:305
+#: admin/settings/yasr-settings-functions.php:381
+msgid "No"
+msgstr "Нет"
+
+#: admin/settings/classes/YasrSettings.php:244
+#: admin/settings/classes/YasrSettings.php:395
+#: admin/settings/yasr-settings-functions.php:215
+#: admin/settings/yasr-settings-functions.php:361
+msgid "What?"
+msgstr "Что?"
+
+#: admin/settings/classes/YasrSettings.php:247
+#: admin/settings/classes/YasrSettings.php:398
+#: admin/settings/yasr-settings-functions.php:218
+#: admin/settings/yasr-settings-functions.php:364
+msgid "Overall Rating / Author Rating"
+msgstr "Общий рейтинг / Рейтинг автора"
+
+#: admin/editor/yasr-editor-functions.php:252
+#: admin/settings/yasr-stats-page.php:48
+#: admin/settings/yasr-stats-functions.php:36
+#: admin/settings/classes/YasrSettings.php:246
+#: admin/settings/classes/YasrSettings.php:397
+#: admin/settings/yasr-settings-functions.php:217
+#: admin/settings/yasr-settings-functions.php:363
+msgid "Visitor Votes"
+msgstr "Голоса посетителей"
+
+#: admin/settings/classes/YasrSettings.php:248
+#: admin/settings/classes/YasrSettings.php:433
+#: admin/settings/yasr-settings-functions.php:219
+#: admin/settings/yasr-settings-functions.php:399
+msgid "Both"
+msgstr "Оба"
+
+#: admin/settings/classes/YasrSettings.php:262
+#: admin/settings/yasr-settings-functions.php:233
+msgid "Where?"
+msgstr "Где?"
+
+#: admin/settings/classes/YasrSettings.php:296
+#: admin/settings/yasr-settings-functions.php:267
+msgid "Size"
+msgstr "Размер"
+
+#: admin/editor/yasr-editor-functions.php:238
+#: admin/editor/yasr-editor-functions.php:263
+#: admin/js/src/yasr-guten-blocks.js:14
+#: admin/js/src/guten/yasr-guten-blocks.js:14 admin/js/yasr-guten-blocks.js:28
+msgid "Small"
+msgstr "Маленький"
+
+#: admin/editor/yasr-editor-functions.php:241
+#: admin/editor/yasr-editor-functions.php:266
+#: admin/js/src/yasr-guten-blocks.js:15
+#: admin/js/src/guten/yasr-guten-blocks.js:15 admin/js/yasr-guten-blocks.js:29
+msgid "Medium"
+msgstr "Средний"
+
+#: admin/editor/yasr-editor-functions.php:244
+#: admin/editor/yasr-editor-functions.php:269
+#: admin/js/src/yasr-guten-blocks.js:16
+#: admin/js/src/guten/yasr-guten-blocks.js:16 admin/js/yasr-guten-blocks.js:30
+msgid "Large"
+msgstr "Большой"
+
+#: admin/settings/classes/YasrSettings.php:309
+#: admin/settings/classes/YasrSettings.php:412
+#: admin/settings/yasr-settings-functions.php:280
+#: admin/settings/yasr-settings-functions.php:378
+msgid "Exclude Pages?"
+msgstr "Исключить страницы?"
+
+#: admin/settings/classes/YasrSettings.php:331
+#: admin/settings/yasr-settings-functions.php:302
+msgid "Use only in custom post types?"
+msgstr "Использовать только в пользовательских типах записей?"
+
+#: admin/settings/classes/YasrSettings.php:347
+#: admin/settings/yasr-settings-functions.php:318
+msgid "You see this because you use custom post types."
+msgstr "Вы видите это, потому что вы используете пользовательские типы записей."
+
+#: admin/settings/classes/YasrSettings.php:349
+#: admin/settings/yasr-settings-functions.php:320
+msgid "If you want to use auto insert only in custom post types, choose Yes"
+msgstr "Если вы хотите использовать автоматическую вставку только в пользовательских типах записей, выберите Да"
+
+#: admin/settings/classes/YasrSettings.php:469
+#: admin/settings/yasr-settings-functions.php:444
+msgid "Custom text to display before Overall Rating"
+msgstr "Пользовательский текст перед Общим рейтингом"
+
+#: admin/settings/classes/YasrSettings.php:586
+#: admin/settings/yasr-settings-functions.php:567
+msgid "Allow only logged-in users"
+msgstr "Разрешить только вошедших в систему пользователей"
+
+#: admin/settings/classes/YasrSettings.php:587
+#: admin/settings/yasr-settings-functions.php:568
+msgid "Allow everybody (logged in and anonymous)"
+msgstr "Разрешить всем (вошедшим и анонимным пользователям)"
+
+#: admin/settings/aspect_style/yasr-settings-functions-style.php:57
+msgid "Which color scheme do you want to use?"
+msgstr "Какой цвет вы хотите использовать?"
+
+#: admin/settings/aspect_style/yasr-settings-functions-style.php:86
+msgid "Light"
+msgstr "Светлый"
+
+#: admin/settings/aspect_style/yasr-settings-functions-style.php:87
+msgid "Dark"
+msgstr "Темный"
+
+#: admin/settings/aspect_style/yasr-settings-functions-style.php:99
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+#: admin/settings/aspect_style/yasr-settings-functions-style.php:104
+msgid "Light theme"
+msgstr "Светлая тема"
+
+#: admin/settings/aspect_style/yasr-settings-functions-style.php:109
+msgid "Dark theme"
+msgstr "Темная тема"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:107
+msgid "Add New Multiple Set"
+msgstr "Добавить новый множественный выбор"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:112
+msgid "Name, Element#1 and Element#2 MUST be filled and must be long at least 3 characters"
+msgstr "Имена элемент#1 и элемент#2 должны быть заполнены и должны быть длиной минимум 3 символов"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:123
+msgid "Name"
+msgstr "Имя"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:128
+msgid "You can insert up to nine elements"
+msgstr "Вы можете вставить до девяти элементов"
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:133
+msgid "Element "
+msgstr "Элемент "
+
+#: admin/settings/multiset/yasr-settings-functions-multiset.php:142
+msgid "Create New Set"
+msgstr "Создать новый выбор"
+
+#: admin/classes/YasrLogDashboardWidget.php:199
+msgid "Ip address"
+msgstr "IP-адрес"
+
+#: admin/classes/YasrLogDashboardWidget.php:230
+msgid "Pages"
+msgstr "Страницы"
+
+#: admin/yasr-admin-functions.php:123
+msgid "Yet Another Stars Rating: settings"
+msgstr "Yet Another Stars Rating: параметры"
+
+#: admin/editor/yasr-metabox-multiple-rating.php:70
+msgid "Choose a vote for each element"
+msgstr "Выбрать голосования для каждого элемента"
+
+#: admin/editor/yasr-editor-functions.php:207
+msgid "Main"
+msgstr "Главная"
+
+#: admin/editor/yasr-editor-functions.php:209
+msgid "Charts"
+msgstr "Графики"
+
+#: admin/editor/yasr-editor-functions.php:215
+msgid "Read the doc"
+msgstr "Читать документ"
+
+#: admin/editor/yasr-editor-functions.php:226
+msgid "Overall Rating / Review"
+msgstr "Рейтинг / Обзор"
+
+#: admin/editor/yasr-editor-functions.php:230
+msgid "Insert Overall Rating"
+msgstr "Вставьте общий рейтинг"
+
+#: admin/editor/yasr-editor-functions.php:231
+msgid "Insert Overall Rating / Review for this post"
+msgstr "Вставьте общий рейтинг / отзыв на этот пост"
+
+#: admin/editor/yasr-editor-functions.php:234
+#: admin/editor/yasr-editor-functions.php:259
+#: admin/js/src/yasr-guten-blocks.js:11
+#: admin/js/src/guten/yasr-guten-blocks.js:11 admin/js/yasr-guten-blocks.js:25
+msgid "Choose Size"
+msgstr "Выбрать размер"
+
+#: admin/editor/yasr-editor-functions.php:255
+msgid "Insert Visitor Votes"
+msgstr "Вставить голосование посетителей"
+
+#: admin/editor/yasr-editor-functions.php:256
+msgid "Insert the ability for your visitor to vote"
+msgstr "Вставить возможность голосовать для ваших посетителей"
+
+#: admin/editor/yasr-editor-functions.php:280
+msgid "If you want to insert a Multi Set, pick one:"
+msgstr "Если вы хотите вставить множественный выбор, укжите:"
+
+#: admin/editor/yasr-editor-functions.php:288
+msgid "Choose wich set you want to insert."
+msgstr "Выберите тот набор, который вы хотите вставить."
+
+#: admin/editor/yasr-editor-functions.php:307
+msgid "Insert Multi Set"
+msgstr "Вставить множественный выбор"
+
+#: admin/editor/yasr-editor-functions.php:317
+msgid "Insert Multiset:"
+msgstr "Вставьте множественный выбор:"
+
+#: admin/editor/yasr-editor-functions.php:337
+msgid "Insert Multiple Set"
+msgstr "Вставить множественный выбор"
+
+#: admin/editor/yasr-editor-functions.php:353
+msgid "Ranking reviews"
+msgstr "Рейтинг отзывов"
+
+#: admin/editor/yasr-editor-functions.php:357
+msgid "Insert Ranking reviews"
+msgstr "Вставка рейтинга отзывов"
+
+#: admin/editor/yasr-editor-functions.php:358
+msgid "Insert Top 10 ranking for [yasr_overall_rating] shortcode"
+msgstr "Вставка Топ-10 рейтинга. шорткод [yasr_overall_rating]"
+
+#: admin/editor/yasr-editor-functions.php:364
+msgid "Users' ranking"
+msgstr "Рейтинг пользователей"
+
+#: admin/editor/yasr-editor-functions.php:368
+msgid "Insert Users ranking"
+msgstr "Вставить рейтинг пользователей"
+
+#: admin/editor/yasr-editor-functions.php:369
+msgid "Insert Top 10 ranking for [yasr_visitor_votes] shortcode"
+msgstr "Вставка Топ-10 рейтинга. шорткод [yasr_visitor_votes]"
+
+#: admin/editor/yasr-editor-functions.php:375
+msgid "Most active reviewers"
+msgstr "Наиболее активные голосующие"
+
+#: admin/editor/yasr-editor-functions.php:379
+msgid "Insert Most Active Reviewers"
+msgstr "Вставьте наиболее активных голосующих"
+
+#: admin/editor/yasr-editor-functions.php:380
+msgid "Insert Top 5 active reviewers"
+msgstr "Вставка Top 5 активных голосующих"
+
+#: admin/editor/yasr-editor-functions.php:385
+msgid "Most Active Users"
+msgstr "Наиболее активные пользователи"
+
+#: admin/editor/yasr-editor-functions.php:389
+msgid "Insert Most Active Users"
+msgstr "Вставьте наиболее активных пользователей"
+
+#: admin/editor/yasr-editor-functions.php:390
+msgid "Insert Top 10 voters [yasr_visitor_votes] shortcode"
+msgstr "Вставить топ 10 голосующих. шорткод [yasr_visitor_votes]"
+
+#: admin/classes/YasrLogDashboardWidget.php:182
+msgid "Vote %d from %s on"
+msgstr "Голосовать %d из %s"
+
+#: includes/shortcodes/yasr-shortcode-ajax.php:152
+#: includes/shortcodes/classes/YasrVisitorVotes.php:336
+msgid "Average:"
+msgstr "Средний: "
+
+#: includes/shortcodes/yasr-shortcode-ajax.php:420
+msgid "stars"
+msgstr "звезды"
+
+#: includes/shortcodes/yasr-shortcode-ajax.php:428
+msgid "star"
+msgstr "звезда"
+
+#: admin/settings/classes/YasrSettings.php:507
+#: admin/settings/yasr-settings-functions.php:488
+msgid "Help"
+msgstr "Помощь"
+
+#: admin/editor/yasr-editor-functions.php:292
+#: admin/editor/yasr-editor-functions.php:322
+msgid "Readonly?"
+msgstr "Только просмотр"
+
+#: admin/classes/YasrLogDashboardWidget.php:172
+#: admin/settings/yasr-stats-functions.php:211
+#: admin/settings/classes/YasrStatsVisitorMulti.php:180
+#: admin/settings/classes/YasrStats.php:174 includes/yasr-widgets.php:412
+msgid "anonymous"
+msgstr "гость"
+
+#: admin/editor/yasr-editor-functions.php:159
+msgid "You don't have enought privileges to insert Overall Rating"
+msgstr "У вас недостаточно полномочий, чтобы вставить общий рейтинг"
+
+#: admin/editor/yasr-editor-functions.php:168
+msgid "You don't have enough privileges to insert a Multi Set"
+msgstr "У вас недостаточно полномочий для вставки Множественного выбора"
+
+#: includes/shortcodes/yasr-shortcode-ajax.php:320
+msgid "Rating not saved. Please Try again"
+msgstr "Рейтинг не сохранился. Пожалуйста, попробуйте снова."
+
+#: admin/editor/yasr-metabox-schema.php:66
+#: admin/settings/classes/YasrSettings.php:188
+#: admin/settings/yasr-settings-functions.php:175
+#: admin/js/src/yasr-guten-panel.js:7 admin/js/src/guten/yasr-guten-panel.js:13
+#: admin/js/yasr-guten-panel.js:1
+msgid "Rich snippet options"
+msgstr "Настройки расширенного фрагмента"
+
+#: admin/editor/yasr-editor-functions.php:296
+#: admin/editor/yasr-editor-functions.php:326
+msgid "If Readonly is checked, only you can insert the votes (in the box above the editor)"
+msgstr "Если установлен флажок «Только чтение», только вы можете добавлять голоса (в поле над редактором)"
+
+#: admin/editor/yasr-metabox-multiple-rating.php:84
+msgid "If, instead, you want allow your visitor to vote on this multiset, use this shortcode"
+msgstr "Если вместо этого вы хотите позволить своему посетителю голосовать за этот мультисет, используйте этот шорткод"
+
+#: admin/settings/classes/YasrSettings.php:475
+#: admin/settings/yasr-settings-functions.php:454
+msgid "Custom text to display BEFORE Visitor Rating"
+msgstr "Пользовательский текст перед рейтингом посетителей"
+
+#: admin/settings/classes/YasrSettings.php:481
+#: admin/settings/yasr-settings-functions.php:464
+msgid "Custom text to display AFTER Visitor Rating"
+msgstr "Пользовательский текст после рейтинга посетителей"
